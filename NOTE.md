@@ -1,10 +1,10 @@
 ### 了解UIView
 
-![截屏2020-11-23 01.30.18](/Users/jialuzhang/MyCode/Apple Projects/HelloIos/static/截屏2020-11-23 01.30.18.png)
+![截屏2020-11-23 01.30.18](./static/截屏2020-11-23 01.30.18.png)
 
 举一反三，可以通过官方文档快速查找 ⌘+鼠标左键
 
-![buttoninheritance](/Users/jialuzhang/MyCode/Apple Projects/HelloIos/static/buttoninheritance.png)
+![buttoninheritance](./static/buttoninheritance.png)
 
 视图层叠关系：
 
@@ -22,5 +22,5 @@
 [self.view addSubview: view2];
 ```
 
-![截屏2020-11-23 01.46.35](/Users/jialuzhang/MyCode/Apple Projects/HelloIos/static/截屏2020-11-23 01.46.35.png)
+![截屏2020-11-23 01.46.35](./static/截屏2020-11-23 01.46.35.png)
 
